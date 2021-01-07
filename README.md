@@ -1,2 +1,10 @@
 # Iowa-liquor-sales
-This is an assignment from the Integrify course. The goal in this assignment was working on a 500+MB dataset using the Dask library and then performing an analysis using Pandas and Plot.ly libraries.  Team members:      Nhu Nguyen, https://github.com/joycenhunguyen     Dmitry Buiskikh     Biswajit Paul, https://github.com/Biswajit852     Radim Musalek, https://github.com/RadimMusalek
+Analyze of liquor sales in the state of Iowa (USA) in 2017.
+A team project at Integrify Academy.
+The goal of the proejct was working on a 500+MB dataset using the Dask library, as well as Pandas and Plotly. 
+
+Team members:  
+Dmitry Buiskikh
+Nhu Nguyen, https://github.com/joycenhunguyen     
+Biswajit Paul, https://github.com/Biswajit852     
+Radim Musalek, https://github.com/RadimMusalek
